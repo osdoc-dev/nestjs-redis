@@ -3,6 +3,10 @@
 
 Redis component for NestJs.
 
+## Tips
+
+fork from [https://github.com/skunight/nestjs-redis.git](https://github.com/skunight/nestjs-redis.git) to fix [https://github.com/skunight/nestjs-redis/issues/82](https://github.com/skunight/nestjs-redis/issues/82)
+
 
 ### Installation
 
